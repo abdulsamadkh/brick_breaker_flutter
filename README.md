@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+ 
 Brick Breaker Game
 Welcome to Brick Breaker, a classic arcade game built using the Flame engine and Flutter. In this game, you control a paddle to bounce a ball and break bricks. The objective is to clear all the bricks while avoiding losing the ball.
 
