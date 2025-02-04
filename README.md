@@ -21,6 +21,9 @@ Use the paddle to bounce the ball and break bricks.
 Clear all the bricks to advance to the next level.
 Avoid letting the ball fall off the screen to prevent losing lives.
 
+![Screenshot 2025-01-14 230800](https://github.com/user-attachments/assets/ac1ecae1-a87f-4ab8-a44b-511d3223f584)
+
+
 ## Easy Steps:
 To run the game, clone the repository and run the following commands:
 
